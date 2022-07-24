@@ -14,7 +14,7 @@ Compared to such, rural areas had the least total number of rides, drivers and t
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/107447038/180668553-758dc849-1f83-4bad-bcf9-78983045ca80.png)
 
-This line data helps us better visualize the discrepancy between city types and their fares. While there seems to be a generalized trend of total fares' rise and fall over the months (an overall peak in late Feb., for example, and the steady decline that can be observed between March and April), more research is needed to make any conclusive report on how time may impact the business productivity for PyBer. 
+This line graph helps us better visualize the discrepancy between city types and their fares. While there seems to be a generalized trend of total fares' rise and fall over the months (an overall peak in late Feb., for example, and the steady decline that can be observed between March and April), more research is needed to make any conclusive report on how time may impact the business productivity for PyBer. 
 
 ## Summary
 
